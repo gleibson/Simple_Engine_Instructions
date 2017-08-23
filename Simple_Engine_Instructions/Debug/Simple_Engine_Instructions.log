@@ -1,0 +1,6 @@
+﻿  Engine.cpp
+c:\users\gleibson\documents\github\simple_engine_instructions\simple_engine_instructions\engine.cpp(7): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\gleibson\documents\github\simple_engine_instructions\simple_engine_instructions\engine.cpp(8): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\gleibson\documents\github\simple_engine_instructions\simple_engine_instructions\engine.cpp(10): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Simple_Engine_Instructions.vcxproj -> C:\Users\gleibson\Documents\GitHub\Simple_Engine_Instructions\Debug\Simple_Engine_Instructions.exe
+  Simple_Engine_Instructions.vcxproj -> C:\Users\gleibson\Documents\GitHub\Simple_Engine_Instructions\Debug\Simple_Engine_Instructions.pdb (Partial PDB)
